@@ -58,3 +58,47 @@ HTML - Basics...
         2. Bock / Inline elements
         3. Div tags
         4. span tags
+
+
+// chapter - 6
+
+Lists and Tables and Forms
+
+    List: li
+        order list: ol
+        unorder list: ul
+
+        nested list and give type A a 1 i I
+
+    Tables:
+        tr , td , th , rowspan , colspan , caption
+
+    Forms:
+        input tag:
+            placeholder , input type: pass, required , date
+
+            action and methods dor sending input data to the server where action is the server url and method https
+
+            label and for , id , name and value
+
+            Data , range , radio , checkbox , file , color , select and option , text area
+
+
+
+
+// chapter - 7
+
+version control system...
+
+    Git (Version Control system) 
+    SVN (Version Control system) 
+
+    track the changes
+
+
+    Git and GitHub:
+        git: A software that track the changes in code
+        GitHub: A web service ffor hosting and collaborationg on a Git repositories
+        
+
+    codespaces - write code online
